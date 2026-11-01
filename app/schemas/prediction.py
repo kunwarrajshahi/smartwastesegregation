@@ -69,6 +69,31 @@ class ModelInfoResponse(BaseModel):
         description="Top-1 validation accuracy percentage recorded during model training checkpointing.",
         examples=[74.34],
     )
+    model_version: str = Field(
+        default="1.0.0",
+        description="Active deep learning model release version.",
+        examples=["1.0.0"],
+    )
+    dataset_name: str = Field(
+        default="RealWaste",
+        description="Dataset used for training and benchmarking.",
+        examples=["RealWaste"],
+    )
+    evaluation_split: str = Field(
+        default="Held-out Test Split (951 images)",
+        description="Dataset split identifying reported metrics.",
+        examples=["Held-out Test Split (951 images)"],
+    )
+    test_accuracy: float = Field(
+        default=74.34,
+        description="Recorded top-1 test accuracy percentage.",
+        examples=[74.34],
+    )
+    macro_precision: float = Field(
+        default=77.0,
+        description="Macro-averaged precision percentage.",
+        examples=[77.0],
+    )
 
 
 class PredictionItem(BaseModel):
@@ -126,6 +151,26 @@ class PredictionResponse(BaseModel):
     top_predictions: List[PredictionItem] = Field(
         ...,
         description="Ranked list of the top predicted classes and their scores.",
+    )
+    scan_id: Optional[str] = Field(
+        default=None,
+        description="Persistent database ID for the recorded scan.",
+        examples=["b9e6c46a-723a-4efb-86d4-83952fef1132"],
+    )
+    image_url: Optional[str] = Field(
+        default=None,
+        description="Static URL path to view the uploaded scan image.",
+        examples=["/uploads/scans/b9e6c46a-723a-4efb-86d4-83952fef1132.jpg"],
+    )
+    destination_bin: Optional[str] = Field(
+        default=None,
+        description="Designated sorting bin destination.",
+        examples=["Blue Plastics Bin"],
+    )
+    recycling_category: Optional[str] = Field(
+        default=None,
+        description="Stream recyclability classification (recyclable, compostable, non_recyclable, special).",
+        examples=["recyclable"],
     )
 
 

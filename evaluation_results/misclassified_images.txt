@@ -1,0 +1,336 @@
+
+Metal -> Plastic: 44 images
+F:\smart-waste-segregation\RealWaste\Metal\Metal_587.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_662.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_171.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_664.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_216.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_688.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_334.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_643.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_727.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_285.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_691.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_101.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_602.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_659.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_319.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_295.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_32.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_740.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_606.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_292.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_251.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_221.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_706.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_514.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_230.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_207.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_22.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_262.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_655.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_25.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_210.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_724.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_660.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_218.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_302.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_731.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_583.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_178.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_38.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_223.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_589.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_202.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_761.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_307.jpg
+
+Miscellaneous Trash -> Plastic: 22 images
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_216.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_402.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_413.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_114.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_74.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_113.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_161.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_311.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_2.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_76.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_449.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_357.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_437.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_272.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_209.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_141.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_248.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_112.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_187.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_192.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_159.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_373.jpg
+
+Miscellaneous Trash -> Vegetation: 15 images
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_350.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_337.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_386.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_434.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_255.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_288.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_391.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_466.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_388.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_380.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_327.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_467.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_392.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_447.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_384.jpg
+
+Food Organics -> Vegetation: 12 images
+F:\smart-waste-segregation\RealWaste\Food Organics\Food Organics_411.jpg
+F:\smart-waste-segregation\RealWaste\Food Organics\Food Organics_224.jpg
+F:\smart-waste-segregation\RealWaste\Food Organics\Food Organics_303.jpg
+F:\smart-waste-segregation\RealWaste\Food Organics\Food Organics_319.jpg
+F:\smart-waste-segregation\RealWaste\Food Organics\Food Organics_46.jpg
+F:\smart-waste-segregation\RealWaste\Food Organics\Food Organics_356.jpg
+F:\smart-waste-segregation\RealWaste\Food Organics\Food Organics_365.jpg
+F:\smart-waste-segregation\RealWaste\Food Organics\Food Organics_358.jpg
+F:\smart-waste-segregation\RealWaste\Food Organics\Food Organics_219.jpg
+F:\smart-waste-segregation\RealWaste\Food Organics\Food Organics_235.jpg
+F:\smart-waste-segregation\RealWaste\Food Organics\Food Organics_314.jpg
+F:\smart-waste-segregation\RealWaste\Food Organics\Food Organics_270.jpg
+
+Miscellaneous Trash -> Textile Trash: 12 images
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_183.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_334.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_140.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_211.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_182.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_32.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_173.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_37.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_176.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_28.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_191.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_7.jpg
+
+Cardboard -> Paper: 10 images
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_273.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_387.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_234.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_277.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_281.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_424.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_209.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_67.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_255.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_193.jpg
+
+Glass -> Plastic: 9 images
+F:\smart-waste-segregation\RealWaste\Glass\Glass_262.jpg
+F:\smart-waste-segregation\RealWaste\Glass\Glass_48.jpg
+F:\smart-waste-segregation\RealWaste\Glass\Glass_407.jpg
+F:\smart-waste-segregation\RealWaste\Glass\Glass_10.jpg
+F:\smart-waste-segregation\RealWaste\Glass\Glass_395.jpg
+F:\smart-waste-segregation\RealWaste\Glass\Glass_398.jpg
+F:\smart-waste-segregation\RealWaste\Glass\Glass_43.jpg
+F:\smart-waste-segregation\RealWaste\Glass\Glass_393.jpg
+F:\smart-waste-segregation\RealWaste\Glass\Glass_62.jpg
+
+Metal -> Glass: 9 images
+F:\smart-waste-segregation\RealWaste\Metal\Metal_156.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_98.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_342.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_566.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_51.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_567.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_136.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_65.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_105.jpg
+
+Cardboard -> Plastic: 9 images
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_187.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_116.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_139.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_84.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_125.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_98.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_186.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_132.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_70.jpg
+
+Paper -> Plastic: 8 images
+F:\smart-waste-segregation\RealWaste\Paper\Paper_355.jpg
+F:\smart-waste-segregation\RealWaste\Paper\Paper_246.jpg
+F:\smart-waste-segregation\RealWaste\Paper\Paper_455.jpg
+F:\smart-waste-segregation\RealWaste\Paper\Paper_453.jpg
+F:\smart-waste-segregation\RealWaste\Paper\Paper_117.jpg
+F:\smart-waste-segregation\RealWaste\Paper\Paper_1.jpg
+F:\smart-waste-segregation\RealWaste\Paper\Paper_87.jpg
+F:\smart-waste-segregation\RealWaste\Paper\Paper_451.jpg
+
+Plastic -> Glass: 8 images
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_271.jpg
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_289.jpg
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_518.jpg
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_567.jpg
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_339.jpg
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_543.jpg
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_264.jpg
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_330.jpg
+
+Textile Trash -> Plastic: 6 images
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_3.jpg
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_107.jpg
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_12.jpg
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_299.jpg
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_257.jpg
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_55.jpg
+
+Plastic -> Metal: 6 images
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_13.jpg
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_14.jpg
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_779.jpg
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_405.jpg
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_547.jpg
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_272.jpg
+
+Textile Trash -> Vegetation: 6 images
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_269.jpg
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_41.jpg
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_94.jpg
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_97.jpg
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_37.jpg
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_88.jpg
+
+Paper -> Cardboard: 5 images
+F:\smart-waste-segregation\RealWaste\Paper\Paper_148.jpg
+F:\smart-waste-segregation\RealWaste\Paper\Paper_123.jpg
+F:\smart-waste-segregation\RealWaste\Paper\Paper_429.jpg
+F:\smart-waste-segregation\RealWaste\Paper\Paper_125.jpg
+F:\smart-waste-segregation\RealWaste\Paper\Paper_180.jpg
+
+Metal -> Paper: 5 images
+F:\smart-waste-segregation\RealWaste\Metal\Metal_148.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_478.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_468.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_653.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_785.jpg
+
+Textile Trash -> Paper: 4 images
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_156.jpg
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_39.jpg
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_15.jpg
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_19.jpg
+
+Textile Trash -> Miscellaneous Trash: 4 images
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_314.jpg
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_259.jpg
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_27.jpg
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_45.jpg
+
+Miscellaneous Trash -> Paper: 4 images
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_23.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_379.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_409.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_454.jpg
+
+Paper -> Textile Trash: 4 images
+F:\smart-waste-segregation\RealWaste\Paper\Paper_139.jpg
+F:\smart-waste-segregation\RealWaste\Paper\Paper_281.jpg
+F:\smart-waste-segregation\RealWaste\Paper\Paper_306.jpg
+F:\smart-waste-segregation\RealWaste\Paper\Paper_260.jpg
+
+Plastic -> Miscellaneous Trash: 3 images
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_505.jpg
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_318.jpg
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_216.jpg
+
+Miscellaneous Trash -> Food Organics: 3 images
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_326.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_307.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_470.jpg
+
+Glass -> Miscellaneous Trash: 3 images
+F:\smart-waste-segregation\RealWaste\Glass\Glass_87.jpg
+F:\smart-waste-segregation\RealWaste\Glass\Glass_410.jpg
+F:\smart-waste-segregation\RealWaste\Glass\Glass_8.jpg
+
+Miscellaneous Trash -> Metal: 3 images
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_128.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_104.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_435.jpg
+
+Miscellaneous Trash -> Glass: 2 images
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_275.jpg
+F:\smart-waste-segregation\RealWaste\Miscellaneous Trash\Miscellaneous Trash_286.jpg
+
+Cardboard -> Glass: 2 images
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_441.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_301.jpg
+
+Food Organics -> Plastic: 2 images
+F:\smart-waste-segregation\RealWaste\Food Organics\Food Organics_77.jpg
+F:\smart-waste-segregation\RealWaste\Food Organics\Food Organics_278.jpg
+
+Plastic -> Cardboard: 2 images
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_388.jpg
+F:\smart-waste-segregation\RealWaste\Plastic\Plastic_387.jpg
+
+Glass -> Metal: 2 images
+F:\smart-waste-segregation\RealWaste\Glass\Glass_414.jpg
+F:\smart-waste-segregation\RealWaste\Glass\Glass_420.jpg
+
+Cardboard -> Metal: 2 images
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_122.jpg
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_123.jpg
+
+Metal -> Textile Trash: 2 images
+F:\smart-waste-segregation\RealWaste\Metal\Metal_185.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_737.jpg
+
+Metal -> Miscellaneous Trash: 2 images
+F:\smart-waste-segregation\RealWaste\Metal\Metal_192.jpg
+F:\smart-waste-segregation\RealWaste\Metal\Metal_585.jpg
+
+Textile Trash -> Cardboard: 1 images
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_18.jpg
+
+Paper -> Glass: 1 images
+F:\smart-waste-segregation\RealWaste\Paper\Paper_109.jpg
+
+Glass -> Vegetation: 1 images
+F:\smart-waste-segregation\RealWaste\Glass\Glass_101.jpg
+
+Glass -> Paper: 1 images
+F:\smart-waste-segregation\RealWaste\Glass\Glass_405.jpg
+
+Vegetation -> Cardboard: 1 images
+F:\smart-waste-segregation\RealWaste\Vegetation\Vegetation_320.jpg
+
+Paper -> Miscellaneous Trash: 1 images
+F:\smart-waste-segregation\RealWaste\Paper\Paper_437.jpg
+
+Glass -> Cardboard: 1 images
+F:\smart-waste-segregation\RealWaste\Glass\Glass_368.jpg
+
+Textile Trash -> Glass: 1 images
+F:\smart-waste-segregation\RealWaste\Textile Trash\Textile Trash_31.jpg
+
+Glass -> Food Organics: 1 images
+F:\smart-waste-segregation\RealWaste\Glass\Glass_52.jpg
+
+Cardboard -> Miscellaneous Trash: 1 images
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_167.jpg
+
+Cardboard -> Textile Trash: 1 images
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_163.jpg
+
+Vegetation -> Food Organics: 1 images
+F:\smart-waste-segregation\RealWaste\Vegetation\Vegetation_345.jpg
+
+Food Organics -> Cardboard: 1 images
+F:\smart-waste-segregation\RealWaste\Food Organics\Food Organics_329.jpg
+
+Cardboard -> Vegetation: 1 images
+F:\smart-waste-segregation\RealWaste\Cardboard\Cardboard_151.jpg

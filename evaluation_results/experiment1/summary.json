@@ -1,0 +1,18 @@
+{
+    "experiment": "Experiment 1 - Data Augmentation",
+    "test_images": 713,
+    "test_accuracy": 91.73,
+    "validation_accuracy": 90.46283309957924,
+    "best_epoch": 8,
+    "classes": [
+        "Cardboard",
+        "Food Organics",
+        "Glass",
+        "Metal",
+        "Miscellaneous Trash",
+        "Paper",
+        "Plastic",
+        "Textile Trash",
+        "Vegetation"
+    ]
+}

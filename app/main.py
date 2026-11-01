@@ -1,7 +1,7 @@
 """Main FastAPI Application Entrypoint.
 
-Configures application lifespan (loading model once at startup), CORS middleware,
-custom error handlers, and includes API routers.
+Configures application lifespan (loading model and initializing DB at startup),
+CORS middleware, static file mounting for scans, custom error handlers, and API routers.
 """
 
 import logging
@@ -13,10 +13,17 @@ from fastapi import FastAPI, HTTPException, Request, status
 from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
+from fastapi.staticfiles import StaticFiles
 
 from app.config import settings
+from app.database import init_db
+from app.routers.auth import router as auth_router
 from app.routers.health import router as health_router
 from app.routers.prediction import router as prediction_router
+from app.routers.scans import router as scans_router
+from app.routers.analytics import router as analytics_router
+from app.routers.recycling import router as recycling_router
+from app.routers.settings import router as settings_router
 from app.services.model_loader import ModelLoader
 
 # Configure application logging
@@ -32,14 +39,21 @@ logger = logging.getLogger("smart_waste_api")
 async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
     """Application lifespan context manager for startup and shutdown events.
 
-    Loads the PyTorch ResNet18 model into memory once during application startup
-    and stores it in app.state.
+    1. Initializes SQLite/PostgreSQL tables and seeds RealWaste rules.
+    2. Loads PyTorch ResNet18 model into memory once and stores in app.state.
     """
     logger.info("Initializing Smart Waste Segregation API backend...")
     logger.info(f"Target execution device: {settings.DEVICE}")
 
+    # Step 1: Initialize Database
     try:
-        # Load model checkpoint once at startup
+        init_db()
+        logger.info("Database initialized successfully.")
+    except Exception as db_exc:
+        logger.error(f"Database initialization warning: {db_exc}", exc_info=True)
+
+    # Step 2: Load Deep Learning Model Checkpoint
+    try:
         bundle = ModelLoader.load_model(
             model_path=settings.MODEL_PATH,
             device_name=settings.DEVICE,
@@ -51,8 +65,6 @@ async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
         )
     except Exception as exc:
         logger.critical(f"Fatal error during model initialization: {exc}", exc_info=True)
-        # We do not crash startup completely to allow health check to report status,
-        # but mark bundle as None
         app.state.model_bundle = None
 
     yield
@@ -80,6 +92,16 @@ app.add_middleware(
     allow_headers=settings.CORS_ALLOW_HEADERS,
 )
 
+# Mount uploads directory for static image serving
+uploads_path = settings.BASE_DIR / "uploads"
+uploads_path.mkdir(parents=True, exist_ok=True)
+app.mount("/uploads", StaticFiles(directory=uploads_path), name="uploads")
+
+# Mount samples directory for static sample serving if it exists
+samples_path = settings.BASE_DIR / "frontend" / "public" / "samples"
+if samples_path.exists():
+    app.mount("/samples", StaticFiles(directory=samples_path), name="samples")
+
 
 # Global Exception Handlers
 @app.exception_handler(HTTPException)
@@ -100,7 +122,6 @@ async def validation_exception_handler(
 ) -> JSONResponse:
     """Handles request validation errors cleanly without leaking internal traces."""
     logger.warning(f"Validation error on {request.method} {request.url.path}: {exc.errors()}")
-    # Format readable error messages
     errors = []
     for err in exc.errors():
         field = " -> ".join(str(loc) for loc in err.get("loc", []))
@@ -128,6 +149,11 @@ async def general_exception_handler(request: Request, exc: Exception) -> JSONRes
 # Register API Routers
 app.include_router(health_router)
 app.include_router(prediction_router)
+app.include_router(auth_router)
+app.include_router(scans_router)
+app.include_router(analytics_router)
+app.include_router(recycling_router)
+app.include_router(settings_router)
 
 
 if __name__ == "__main__":

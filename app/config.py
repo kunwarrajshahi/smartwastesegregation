@@ -57,5 +57,22 @@ class Settings:
     PORT: int = int(os.getenv("PORT", "8000"))
     LOG_LEVEL: str = os.getenv("LOG_LEVEL", "INFO")
 
+    # Database configuration (SQLite by default, compatible with PostgreSQL)
+    DATABASE_URL: str = os.getenv(
+        "DATABASE_URL",
+        f"sqlite:///{BASE_DIR / 'smart_waste.db'}"
+    )
+
+    # Security & JWT authentication
+    SECRET_KEY: str = os.getenv(
+        "SECRET_KEY",
+        "ecosort-ai-smart-waste-secret-key-production-32-chars-min"
+    )
+    ALGORITHM: str = "HS256"
+    ACCESS_TOKEN_EXPIRE_MINUTES: int = 60 * 24  # 24 hours
+
+    # Storage paths
+    UPLOADS_DIR: Path = BASE_DIR / "uploads" / "scans"
+
 
 settings = Settings()

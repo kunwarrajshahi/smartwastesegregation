@@ -1,0 +1,82 @@
+[
+    {
+        "epoch": 1,
+        "train_loss": 0.9405819182286976,
+        "train_accuracy": 66.6265784726398,
+        "val_loss": 0.6039022539976101,
+        "val_accuracy": 79.1023842917251,
+        "learning_rate": 0.0001
+    },
+    {
+        "epoch": 2,
+        "train_loss": 0.48386255551803853,
+        "train_accuracy": 82.32110643415514,
+        "val_loss": 0.4224701269646012,
+        "val_accuracy": 85.83450210378682,
+        "learning_rate": 0.0001
+    },
+    {
+        "epoch": 3,
+        "train_loss": 0.33598194998463304,
+        "train_accuracy": 87.73301262778112,
+        "val_loss": 0.4012151092165483,
+        "val_accuracy": 85.83450210378682,
+        "learning_rate": 0.0001
+    },
+    {
+        "epoch": 4,
+        "train_loss": 0.24449049935452707,
+        "train_accuracy": 91.19061936259772,
+        "val_loss": 0.35868408054447776,
+        "val_accuracy": 87.6577840112202,
+        "learning_rate": 0.0001
+    },
+    {
+        "epoch": 5,
+        "train_loss": 0.22272692066104888,
+        "train_accuracy": 92.0625375826819,
+        "val_loss": 0.4728668219452988,
+        "val_accuracy": 85.69424964936887,
+        "learning_rate": 0.0001
+    },
+    {
+        "epoch": 6,
+        "train_loss": 0.1671416577146631,
+        "train_accuracy": 93.956704750451,
+        "val_loss": 0.3355062856099883,
+        "val_accuracy": 88.35904628330997,
+        "learning_rate": 0.0001
+    },
+    {
+        "epoch": 7,
+        "train_loss": 0.14031152262772986,
+        "train_accuracy": 94.9789536981359,
+        "val_loss": 0.4445078972763634,
+        "val_accuracy": 86.53576437587658,
+        "learning_rate": 0.0001
+    },
+    {
+        "epoch": 8,
+        "train_loss": 0.11622120579340625,
+        "train_accuracy": 95.91100420926037,
+        "val_loss": 0.2860533958523003,
+        "val_accuracy": 89.48106591865357,
+        "learning_rate": 0.0001
+    },
+    {
+        "epoch": 9,
+        "train_loss": 0.10602943742142625,
+        "train_accuracy": 96.30186410102225,
+        "val_loss": 0.31209650411052425,
+        "val_accuracy": 90.18232819074333,
+        "learning_rate": 0.0001
+    },
+    {
+        "epoch": 10,
+        "train_loss": 0.11724481888460382,
+        "train_accuracy": 95.76067348165965,
+        "val_loss": 0.2987447777008024,
+        "val_accuracy": 90.60308555399719,
+        "learning_rate": 0.0001
+    }
+]
